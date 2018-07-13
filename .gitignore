@@ -11,3 +11,4 @@ build/
 .jekyll-cache
 .env
 
+*.lock
